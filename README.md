@@ -20,4 +20,10 @@
   # 运行之后会生成 1x， 2x， 3x的图片资源放在iso文件夹下
   ```
 
-  ​
+* convertPng2Jpg.py
+
+  > 将png图片转换成jpg
+
+  ```shell
+  python3 convertPng2Jpg.py 背面.png 
+  ```
