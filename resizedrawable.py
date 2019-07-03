@@ -58,8 +58,8 @@ def android(res_dir):
         print("xxhdpi_path must be a dir")  
         return -1  
   
-    path_resize(xxhdpi_path, res_dir + '/drawable-land-xxhdpi', 1)
-    path_resize(xxhdpi_path, res_dir + '/drawable-land-xhdpi', 0.75)
+    #path_resize(xxhdpi_path, res_dir + '/drawable-land-xxhdpi', 1)
+    #path_resize(xxhdpi_path, res_dir + '/drawable-land-xhdpi', 0.75)
     path_resize(xxhdpi_path, res_dir + '/drawable-xxhdpi', 0.75)
     path_resize(xxhdpi_path, res_dir + '/drawable-xhdpi', 0.5)  
     path_resize(xxhdpi_path, res_dir + '/drawable-hdpi', 0.375)  

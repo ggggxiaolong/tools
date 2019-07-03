@@ -27,3 +27,11 @@
   ```shell
   python3 convertPng2Jpg.py 背面.png 
   ```
+
+* png2webp.py
+
+  > 将png图片转换成webp[需要 [cwebp](https://developers.google.com/speed/webp/docs/cwebp) 首先安装webp ```sudo apt install webp``` ]
+
+  ```shell
+  python3 png2webp.py -i img/
+  ```

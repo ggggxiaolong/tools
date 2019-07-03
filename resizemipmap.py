@@ -58,9 +58,9 @@ def android(res_dir):
         print("xxhdpi_path must be a dir")  
         return -1  
   
-    path_resize(xxhdpi_path, res_dir + '/mipmap-land-xxhdpi', 1)
+    #path_resize(xxhdpi_path, res_dir + '/mipmap-land-xxhdpi', 1)
     path_resize(xxhdpi_path, res_dir + '/mipmap-xxhdpi', 0.75)
-    path_resize(xxhdpi_path, res_dir + '/mipmap-land-xhdpi', 0.75)
+    #path_resize(xxhdpi_path, res_dir + '/mipmap-land-xhdpi', 0.75)
     path_resize(xxhdpi_path, res_dir + '/mipmap-xhdpi', 0.5)  
     path_resize(xxhdpi_path, res_dir + '/mipmap-hdpi', 0.375)  
     path_resize(xxhdpi_path, res_dir + '/mipmap-mdpi', 0.25)  
