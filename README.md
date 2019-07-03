@@ -35,3 +35,19 @@
   ```shell
   python3 png2webp.py -i img/
   ```
+  
+* translang/
+
+  > 将安卓文字资源文件存储到sqlite数据库
+
+  ```shell
+  python3 tocXml2db.py . 
+  ```
+
+  > 将数据库的多语言转换成excel文件
+
+  ```shell
+  python3 exel.py language.db
+  ```
+
+  
