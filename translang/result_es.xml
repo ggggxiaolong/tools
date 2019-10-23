@@ -1,0 +1,32 @@
+<resources>
+  <string name="format_audit_add_invite_code">%1$s creó el código de invitación %2$s</string>
+  <string name="format_audit_invite_users_code">%1$s invitado %2$s usuario (s)</string>
+  <string name="format_audit_add_lock">%1$s agregado %2$s</string>
+  <string name="format_audit_update_lock_name">%1$s editado %2$s nombre a %3$s</string>
+  <string name="format_audit_delete_lock">%1$s eliminado %2$s</string>
+  <string name="format_audit_add_rel_bluetooth">%1$s autorizado %2$s acceso permanente de bluetooth a %3$s </string>
+  <string name="format_audit_add_rel_fingerprint">%1$s autorizado %2$s acceso permanente de huellas digitales a %3$s </string>
+  <string name="format_audit_delete_rel_bluetooth">%1$s revocado %2$s acceso permanente a bluetooth desde %3$s </string>
+  <string name="format_audit_delete_rel_fingerprint">%1$s revocado %2$s acceso permanente a huellas digitales de %3$s </string>
+  <string name="format_audit_sync_lock_data">%1$s sincronizado %2$s </string>
+  <string name="format_audit_set_morse_code">%1$s creó el código Morse para %2$s </string>
+  <string name="format_audit_update_firmware">%1$s actualizado %2$s firmware</string>
+  <string name="format_audit_send_feedback">%1$s envió un comentario</string>
+  <string name="format_audit_enrolled_fingerprint">Huella digital registrada %1$s </string>
+  <string name="format_audit_download_advance_audit_report">%1$s descargó el informe de auditoría</string>
+  <string name="format_audit_add_rel_temp">%1$s autorizado %2$s acceso temporal de bluetooth a %3$s </string>
+  <string name="format_audit_delete_rel_temp">%1$s revocado %2$s acceso temporal de bluetooth a %3$s </string>
+  <string name="format_audit_delete_all_rel_temp">%1$s revocado %2$s acceso temporal a bluetooth a %3$s </string>
+  <string name="hint_staff_id">Identificación del personal</string>
+  <string name="prompt_user_info">Información de usuario</string>
+  <string name="prompt_confirm_page">Confirmar página</string>
+  <string name="prompt_submit">Enviar</string>
+  <string name="prompt_reason">Razón</string>
+  <string name="format_staffId">ID del personal: %1$s </string>
+  <string name="format_users">%1$d Usuario (s)</string>
+  <string name="prompt_create_user_content">Creación de usuario exitosamente</string>
+  <string name="prompt_complete_your_information">Completa tu información</string>
+  <string name="format_edit_stripe_card">¿Qué quieres hacer con **** **** **** %1$s </string>
+  <string name="prompt_set_as_default">Establecer esta tarjeta como tarjeta predeterminada</string>
+  <string name="prompt_delete_card">Eliminar esta tarjeta</string>
+</resources>

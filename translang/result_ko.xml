@@ -1,0 +1,32 @@
+<resources>
+  <string name="format_audit_add_invite_code">%1$s 초대 코드 %2$s 을 (를) 생성했습니다.</string>
+  <string name="format_audit_invite_users_code">%1$s 님이 %2$s 명의 사용자를 초대했습니다</string>
+  <string name="format_audit_add_lock">%1$s 추가 %2$s </string>
+  <string name="format_audit_update_lock_name">%1$s 님이 %2$s 이름을 %3$s (으)로 수정했습니다</string>
+  <string name="format_audit_delete_lock">%1$s 이 (가) %2$s 을 (를) 삭제했습니다.</string>
+  <string name="format_audit_add_rel_bluetooth">%1$s 인증 %2$s  %3$s 에 대한 영구적 인 블루투스 액세스</string>
+  <string name="format_audit_add_rel_fingerprint">%1$s 인증 %2$s  %3$s 에 대한 영구 지문 액세스</string>
+  <string name="format_audit_delete_rel_bluetooth">%1$s 님이 %3$s 에서 %2$s 영구적 인 블루투스 액세스를 취소했습니다</string>
+  <string name="format_audit_delete_rel_fingerprint">%1$s 이 (가) %3$s 에서 %2$s 영구 지문 액세스를 취소했습니다.</string>
+  <string name="format_audit_sync_lock_data">%1$s 동기화 %2$s </string>
+  <string name="format_audit_set_morse_code">%1$s 이 (가) %2$s 에 모스 부호를 작성했습니다</string>
+  <string name="format_audit_update_firmware">%1$s 업데이트 %2$s 펌웨어</string>
+  <string name="format_audit_send_feedback">%1$s 님이 피드백을 보냈습니다</string>
+  <string name="format_audit_enrolled_fingerprint">등록 지문 %1$s </string>
+  <string name="format_audit_download_advance_audit_report">%1$s 다운로드 감사 보고서</string>
+  <string name="format_audit_add_rel_temp">%3$s 에 %1$s 의 인증 된 %2$s 의 임시 블루투스 액세스</string>
+  <string name="format_audit_delete_rel_temp">%1$s 이 (가) %3$s 에 대한 임시 블루투스 액세스를 %2$s 취소</string>
+  <string name="format_audit_delete_all_rel_temp">%1$s 이 (가) %3$s 에 대한 모든 임시 블루투스 액세스를 %2$s 취소했습니다.</string>
+  <string name="hint_staff_id">직원 ID</string>
+  <string name="prompt_user_info">사용자 정보</string>
+  <string name="prompt_confirm_page">확인 페이지</string>
+  <string name="prompt_submit">제출</string>
+  <string name="prompt_reason">이유</string>
+  <string name="format_staffId">직원 ID : %1$s </string>
+  <string name="format_users">%1$d 명의 사용자</string>
+  <string name="prompt_create_user_content">사용자 생성 성공</string>
+  <string name="prompt_complete_your_information">정보를 작성하십시오</string>
+  <string name="format_edit_stripe_card">**** **** **** %1$s (으)로 무엇을 하시겠습니까?</string>
+  <string name="prompt_set_as_default">이 카드를 기본 카드로 설정</string>
+  <string name="prompt_delete_card">이 카드를 삭제</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="format_audit_add_invite_code">%1$s created invitation code %2$s</string>
+    <string name="format_audit_invite_users_code">%1$s invited %2$s user(s)</string>
+    <string name="format_audit_add_lock">%1$s added %2$s</string>
+    <string name="format_audit_update_lock_name">%1$s edited %2$s name to %3$s</string>
+    <string name="format_audit_delete_lock">%1$s deleted %2$s</string>
+    <string name="format_audit_add_rel_bluetooth">%1$s authorized %2$s permanent bluetooth access to %3$s</string>
+    <string name="format_audit_add_rel_fingerprint">%1$s authorized %2$s permanent fingerprint access to %3$s</string>
+    <string name="format_audit_delete_rel_bluetooth">%1$s revoked %2$s permanent bluetooth access from %3$s</string>
+    <string name="format_audit_delete_rel_fingerprint">%1$s revoked %2$s permanent fingerprint access from %3$s</string>
+    <string name="format_audit_sync_lock_data">%1$s synced %2$s</string>
+    <string name="format_audit_set_morse_code">%1$s created Morse-code to %2$s</string>
+    <string name="format_audit_update_firmware">%1$s updated %2$s firmware</string>
+    <string name="format_audit_send_feedback">%1$s sent a feedback</string>
+    <string name="format_audit_enrolled_fingerprint">%1$s enrolled fingerprint</string>
+    <string name="format_audit_download_advance_audit_report">%1$s downloaded audit report</string>
+    <string name="format_audit_add_rel_temp">%1$s authorized %2$s temporary bluetooth access to %3$s</string>
+    <string name="format_audit_delete_rel_temp">%1$s revoked %2$s temporary bluetooth access to %3$s</string>
+    <string name="format_audit_delete_all_rel_temp">%1$s revoked %2$s all temporary bluetooth access to %3$s</string>
+    <string name="hint_staff_id">staff Id</string>
+    <string name="prompt_user_info">User info</string>
+    <string name="prompt_confirm_page">Confirm page</string>
+    <string name="prompt_submit">Submit</string>
+    <string name="prompt_reason">Reason</string>
+    <string name="format_staffId">Staff ID: %1$s</string>
+    <string name="format_users">%1$d User(s)</string>
+    <string name="prompt_create_user_content">User creation successfully</string>
+    <string name="prompt_complete_your_information">Complete your information</string>
+    <string name="format_edit_stripe_card">What do you want to do with **** **** **** %1$s</string>
+    <string name="prompt_set_as_default">Set this card as default card</string>
+    <string name="prompt_delete_card">Delete this card</string>
+</resources>
